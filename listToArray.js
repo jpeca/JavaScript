@@ -1,5 +1,6 @@
 // Eloquent JavaScript Excercise 4.3
 // Builds up a list structure value, rest, with array as argument
+//
 function arrayToList(array){
 	let list = null;
 	for (i = array.length-1 ; i >=0; i--)
