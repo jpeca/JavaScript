@@ -1,3 +1,4 @@
+//Test Git Hub izmena na remote repo 
 function range(rngStart, rngStop, step = 1 ) {
     //if (isNaN(rngStart) || isNaN(rngStart) || isNan(step)) return undefined;
     let result = [];
