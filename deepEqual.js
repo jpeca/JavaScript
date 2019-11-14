@@ -1,3 +1,4 @@
+// Funkcija koja poredi objekte
 function deepEqual (item1, item2){
 	// Uporedi direktno i ako su jednaki true
 	if (item1 === item2) return true;
